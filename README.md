@@ -1,7 +1,5 @@
 <p align="center">
   <br>
-  <br>
-  <br>
   <samp>Hello there. I'm <a href="https://github.com/vitalcyan">vitalcyan</a>.<br> I'm a Full Stack Developer from @Internet.<br><br>#javascript, #nuxtjs, #vuejs, #node, #typescript</samp>
   <br>
   <br>
